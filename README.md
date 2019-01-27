@@ -4,7 +4,7 @@
 ## Installing
 This project has a binary ninja plugin that you will need to put into your binary ninja plugin directory. 
 
-##Using:
+## Using:
 1) On binja start the plugin by selecting Tools > binja heat map
 2) Use angr as you normally would, when you're ready to visuzlise the progress of your simulation manager use the following 
 lines of code: 
